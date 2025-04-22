@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="desafio.png" alt="IEEE CIS UnB Logo" width="600"/>
+</p>
+
 # 🧠 Desafio IEEE CIS UnB – Diagnóstico de Diabetes
 
 > Projeto desenvolvido como parte da avaliação prática do processo seletivo da **IEEE Computational Intelligence Society - Student UnB**.  
